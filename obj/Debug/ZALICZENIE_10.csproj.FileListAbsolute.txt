@@ -1,0 +1,30 @@
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe.config
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.pdb
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csprojAssemblyReference.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Form1.resources
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Properties.Resources.resources
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.GenerateResource.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.CoreCompileInputs.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.pdb
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe.config
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.pdb
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csprojAssemblyReference.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Form1.resources
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Properties.Resources.resources
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.GenerateResource.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.CoreCompileInputs.cache
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\ZALICZENIE_C#\ZALICZENIE_10\Nowy folder\ZALICZENIE_10\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.pdb
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe.config
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\bin\Debug\ZALICZENIE_10.pdb
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csprojAssemblyReference.cache
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Form1.resources
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.Properties.Resources.resources
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.GenerateResource.cache
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.csproj.CoreCompileInputs.cache
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.exe
+C:\Users\minex\Desktop\SEM4\Zaliczenie informatyka 2020 c#\ZAL\Jakub Rybski 140009\ZALICZENIE_10\obj\Debug\ZALICZENIE_10.pdb
